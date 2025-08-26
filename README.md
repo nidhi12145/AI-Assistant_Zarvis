@@ -47,7 +47,7 @@ sudo apt-get install portaudio19-dev python3-pyaudio  # Linux
 pip install pyaudio
 ```
 
-3. Add API Keys
+### 3. Add API Keys
 This project uses:
 OpenAI API Key (for AI responses)
 NewsAPI Key (for fetching news)
@@ -57,7 +57,7 @@ Replace the placeholders in main.py and client.py:
 api_key="your_openai_api_key"
 newsapi="your_newsapi_key"
 ```
-🎮 Usage
+### 🎮 Usage
 
 Run the assistant with:
 ```bash
@@ -76,7 +76,7 @@ Then give a command, for example:
 
 "What is Python?" → AI-generated answer
 
-🔮 Future Improvements
+### 🔮 Future Improvements
 Add GUI interface
 Support for more APIs (weather, reminders, calendar)
 Smarter conversation memory
