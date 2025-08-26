@@ -78,6 +78,9 @@ Then give a command, for example:
 
 ### 🔮 Future Improvements
 Add GUI interface
+
 Support for more APIs (weather, reminders, calendar)
+
 Smarter conversation memory
+
 Custom wake word
