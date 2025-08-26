@@ -48,7 +48,6 @@ pip install pyaudio
 ```
 
 3. Add API Keys
-4. 
 This project uses:
 OpenAI API Key (for AI responses)
 NewsAPI Key (for fetching news)
@@ -66,10 +65,15 @@ python main.py
 ```
 
 Say "Jarvis" to activate.
+
 Then give a command, for example:
+
 "Open Google" → Opens Google in browser
+
 "Play Soulmate" → Plays the song from musicLibrary.py
+
 "News" → Reads top headlines aloud
+
 "What is Python?" → AI-generated answer
 
 🔮 Future Improvements
